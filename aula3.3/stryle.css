@@ -1,0 +1,43 @@
+
+.caixa{
+    color: aquamarine;  
+    display: inline-block;
+    line-height: 50px;
+    text-align: center;
+    vertical-align: top;    
+}
+.width-and-height{
+    height: 50px;   
+    width: 50px;
+}
+.padding{
+ padding: 20px;
+}
+.margin{
+    margin: 30px;
+}
+.border{
+    border: 5px solid black
+}
+.primeiradiv{
+}
+
+.super-mario {
+    width: 200px;
+  }
+  
+  .goomba {
+    width: 100px;
+  }
+  
+  .baloon {
+  
+  }
+  
+  .speach {
+    font-size: 25px;
+  }
+  
+  .bowser {
+    width: 200px;
+  }
