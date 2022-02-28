@@ -1,0 +1,28 @@
+img{
+    border-radius: 50%;
+}
+
+body{
+    background-color: #6a6157;
+    font-family: monospace;
+}
+
+h1 a , p a{
+    color: #F4EBE8;
+    text-decoration-color: red;
+}
+
+p{
+    font-size: 16px;
+}
+ul, l, li{
+    font-size: 16px;
+    color: #04F06A;
+}
+strong{
+    font-size: 19px;
+    font-weight: bolder
+}
+h1,h2,p,ul,li{
+text-align: center;
+}
