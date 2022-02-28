@@ -1,3 +1,4 @@
+
 img{
     border-radius: 50%;
 }
@@ -15,10 +16,13 @@ h1 a , p a{
 p{
     font-size: 16px;
 }
-ul, l, li{
+ul, li{
     font-size: 16px;
-    color: #04F06A;
+    color:#04F06A;
+
+    
 }
+
 strong{
     font-size: 19px;
     font-weight: bolder
@@ -26,3 +30,9 @@ strong{
 h1,h2,p,ul,li{
 text-align: center;
 }
+
+li:hover{
+    background-color: antiquewhite;
+}
+
+
