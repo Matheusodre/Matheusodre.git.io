@@ -53,6 +53,7 @@ div.inicio{
     text-align: center;
     
     font-family: monospace;
+    background-color: #6a6157;
 }
 
 .redesocial{
@@ -60,6 +61,7 @@ div.inicio{
 }
 
 div.exercicio{
+    background-color: #6a6157;
     font-size: 16px;
     position:relative;
     left: 377px;
