@@ -1,46 +1,36 @@
 
-.foto{
+img.foto{
     border-radius: 50%;
     border-style:outset;
     border-color: #04F06A;
     border-width: 7px;
- 
-
+    position: relative;
+    left: 55px;
 }
-
 
 body{
     background-color: #6a6157;
     font-family: monospace;
 }
 
-h1 a , p a{
-    color: #F4EBE8;
-    text-decoration-color: #04F06A;
-}
-
-p{
-    font-size: 16px;
-}
 ul, li{
     font-size: 16px;
     color:#04F06A;
-
-    
+    font-family: monospace;
 }
 
 strong{
     font-size: 19px;
-    font-weight: bolder
-}
-h1,h2,p,ul,li{
-text-align: center;
+    font-weight: bolder;
+    
 }
 
-li:hover{
+li:nth-child(odd){
+    color: yellowgreen 
+}
+li:hover {
     color: antiquewhite;
 }
-
 a:active{
     color: red;
 }
@@ -48,3 +38,31 @@ a:active{
      color: red;
  }
  
+ .conhecimento {
+  text-align: center;
+ }
+ .habilidades{ 
+    text-align: center;
+ }
+.customletras{
+     color: antiquewhite;
+     text-decoration:underline #04F06A;
+}
+
+div.inicio{
+    text-align: center;
+    
+    font-family: monospace;
+}
+
+.redesocial{
+    text-align: center;
+}
+
+div.exercicio{
+    font-size: 16px;
+    position:relative;
+    left: 377px;
+    bottom: 255px;
+}
+
