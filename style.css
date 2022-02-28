@@ -1,0 +1,68 @@
+
+img.foto{
+    border-radius: 50%;
+    border-style:outset;
+    border-color: #04F06A;
+    border-width: 7px;
+    position: relative;
+    left: 55px;
+}
+
+body{
+    background-color: #6a6157;
+    font-family: monospace;
+}
+
+ul, li{
+    font-size: 16px;
+    color:#04F06A;
+    font-family: monospace;
+}
+
+strong{
+    font-size: 19px;
+    font-weight: bolder;
+    
+}
+
+li:nth-child(odd){
+    color: yellowgreen 
+}
+li:hover {
+    color: antiquewhite;
+}
+a:active{
+    color: red;
+}
+ a:hover{
+     color: red;
+ }
+ 
+ .conhecimento {
+  text-align: center;
+ }
+ .habilidades{ 
+    text-align: center;
+ }
+.customletras{
+     color: antiquewhite;
+     text-decoration:underline #04F06A;
+}
+
+div.inicio{
+    text-align: center;
+    
+    font-family: monospace;
+}
+
+.redesocial{
+    text-align: center;
+}
+
+div.exercicio{
+    font-size: 16px;
+    position:relative;
+    left: 377px;
+    bottom: 255px;
+}
+

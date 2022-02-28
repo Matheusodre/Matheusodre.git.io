@@ -1,0 +1,79 @@
+  
+.box1 {
+  width: 75px;
+  height: 75px;
+  position: relative;
+  left:300px;
+  top: 181px;
+}
+
+.box2{
+  width: 75px;
+  height: 75px;
+  position: relative;
+  left: 376px;
+  top: 90px;
+}
+
+.box3{
+  width: 75px;
+  height: 75px;
+  position: relative;
+  left: 452px;
+  bottom: 1px;
+}
+
+.box4{
+  width: 75px;
+  height: 75px;
+  position: relative;
+  left: 528px;
+  bottom: 112px;
+  z-index: 3;
+}
+
+.super-mario {
+    width: 185px;
+    position: relative;
+    bottom: 141px;
+    left: 528px;
+    z-index: 1;
+
+  }
+  
+  .goomba {
+    width: 100px;
+    position: relative;
+    bottom: 468px;
+    left: 325px;
+    z-index: 2;
+
+  }
+  
+  .baloon {
+    width: 150px;
+    position: relative;
+    bottom: 535px;
+    left: 745px;
+    z-index: 1;
+
+  
+  }
+  
+  .fala {
+    font-size: 25px;
+    position: relative;
+    bottom: 455px;
+    left: 765px;
+    z-index: 3;
+
+  }
+  
+  .bowser {
+    width: 300px;
+    position: relative;
+    left: 550px;
+    bottom: 155px;
+    z-index: 2;
+
+  }
